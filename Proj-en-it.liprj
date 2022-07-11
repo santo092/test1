@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<LingoProject TargetLanguage="it" xml:lang="it" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" SourceControlBound="false">
+<LingoProject TargetLanguage="it" xml:lang="it" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="753291e9-24d3-4867-8fa7-c2c242afa807">
     <ProjectFile Source="Target/Content/%2A.%2A" Target="Target/Content/%2A.%2A" />
     <TMConnection Connection="LingoLocal11.db" ReadOnly="false" Type="StandAlone" />
     <TermConnection Connection="file:///C:/Users/tsantos/Documents/Lingo Termbases/LingoLocal1.litdb3" ReadOnly="false" Type="StandAlone" />
